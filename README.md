@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Caio Matheus  
 # ADS Student | Backend Developer in Progress | Python
 
-I'm currently studying Systems Analysis and Development (4th semester) and focusing on becoming a Backend Developer with Python.
+I'm currently studying Systems Analysis and Development (5th semester) and focusing on becoming a Backend Developer with Python.
 
 I have academic experience with Python, APIs and Flask, and I'm currently deepening my knowledge in backend development, APIs, databases and cloud fundamentals.
 
