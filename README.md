@@ -1,36 +1,24 @@
-# 👋 Olá! Eu sou o Caio Matheus  
-### Estudante de ADS | Futuro Back-end Developer | Python
+# 👋 Hi! I'm Caio Matheus  
+# ADS Student | Backend Developer in Progress | Python
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas (4º semestre)** e estou começando minha jornada para me tornar um desenvolvedor **Back-end Python**. Já tive contato com Python, APIs simples e Flask na faculdade, e agora estou aprofundando meus estudos para atuar profissionalmente na área.
+I'm currently studying Systems Analysis and Development (4th semester) and focusing on becoming a Backend Developer with Python.
 
+I have academic experience with Python, APIs and Flask, and I'm currently deepening my knowledge in backend development, APIs, databases and cloud fundamentals.
 
-## 🚀 Tecnologias que estou aprendendo
-- Python  
-- PostgreSQL / SQL
-- Git & GitHub  
-- FastAPI  
-- Flask  
+🚀 Technologies I'm studying
+- Python
+- SQL / PostgreSQL
+- Git & GitHub
+- FastAPI
 - Docker
 - Pytest
 
----
+🎯 Next goals
+- Build backend APIs with FastAPI
+- Work with relational databases
+- Learn Docker and cloud basics (AWS)
+- Build real portfolio projects
 
-## 📘 O que estou estudando agora
-- Curso de Python 
-- Fundamentos de bancos de dados (SQL e NoSQL)  
-- API REST com FastAPI  
-- Boas práticas de backend  
-
----
-
-## 🎯 Próximos passos
-- Testes automatizados  
-- Cloud (AWS / GCP)  
-- Arquitetura de APIs  
-- Projetos para portfólio  
-
----
-
-## 📫 Contato
-- Email: **caiomatheus.dev@gmail.com**  
-- LinkedIn: **()**  
+📫 Contact
+Email: caiomatheus-dev@gmail.com
+LinkedIn: (soon)
