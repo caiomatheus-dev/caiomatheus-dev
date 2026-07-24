@@ -1,42 +1,37 @@
-# 👋 Hi! I'm Caio Matheus
+👋 Hi! I'm Caio Matheus
 
-Backend Developer in training focused on **Java and Spring Boot**.
+Backend Developer in training focused on Node.js and TypeScript.
 
-I'm currently studying **Systems Analysis and Development (ADS)** and focusing on becoming a **Backend Engineer**, building APIs and scalable backend systems.
+I'm currently studying Systems Analysis and Development (ADS) and building backend applications using the Node.js ecosystem. My goal is to build scalable REST APIs following modern software engineering practices.
 
-I previously worked with **Python and FastAPI**, and now I'm specializing in the **Java backend ecosystem**, which is widely used in large-scale systems such as banks and fintechs.
+🚀 Tech Stack
 
----
+- JavaScript (ES6+)
+- TypeScript
+- Node.js
+- Express
+- NestJS
+- PostgreSQL
+- Git & GitHub
+- Docker
+- AWS (basics)
 
-## 🚀 Tech Stack I'm studying
+📚 Currently Learning
 
-* Java
-* Spring Boot
-* REST APIs
-* SQL / PostgreSQL
-* Git & GitHub
-* Docker
-* AWS (basics)
+- Modern JavaScript
+- TypeScript
+- Node.js
+- Express
+- NestJS
+- REST API Development
+- PostgreSQL
+- Docker Fundamentals
 
----
+🎯 Career Goal
 
-## 📚 Currently Learning
+Become a Backend Node.js Developer building scalable, secure and maintainable backend applications.
 
-* Java OOP and advanced concepts
-* Spring Boot for backend APIs
-* Databases and persistence
-* Docker and cloud fundamentals
-* Software engineering best practices
+📫 Contact
 
----
-
-## 🎯 Career Goal
-
-Become a **Backend Java Developer** working with scalable systems and modern backend architectures.
-
----
-
-## 📫 Contact
-
-Email: [caiomatheus-dev@gmail.com](mailto:caiomatheus-dev@gmail.com)
-LinkedIn: (coming soon)
+Email: caiomatheus-dev@gmail.com
+LinkedIn: Coming soon
